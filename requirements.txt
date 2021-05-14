@@ -5,4 +5,3 @@ Flask
 flasgger
 scikit_learn
 gunicorn
-pickle
