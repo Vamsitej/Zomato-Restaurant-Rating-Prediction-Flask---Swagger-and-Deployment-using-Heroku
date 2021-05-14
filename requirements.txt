@@ -6,4 +6,3 @@ flasgger
 scikit_learn
 gunicorn
 pickle
-uvicorn
